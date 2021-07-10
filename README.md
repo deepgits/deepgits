@@ -13,13 +13,13 @@ Glad to have you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepgits&layout=compact&langs_count=10)](https://github.com/deepgits/github-readme-stats)
 
-## Checkout my latest work
+<!-- ## Checkout my latest work
 <a href="https://github.com/deepgits/vscode-terminal-capture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepgits&repo=vscode-terminal-capture" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepgits&repo=" />
 </a>
 <a href="https://github.com/deepgits/deepgits.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepgits&repo=deepgits.github.io" />
-</a>
+</a> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepgits&repo=deepgits.github.io)](https://github.com/deepgits/deepgits.github.io) -->
 
