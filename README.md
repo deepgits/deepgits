@@ -6,7 +6,7 @@ Glad to have you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - 🌱 I’m currently learning Software development.
 - 🤔 I’m looking for help with good opportunities to contribute to open source.
 - 💬 Ask me about any projects that I have worked upon till now.
-- 📫 How to reach me: email [here](https://deepmah333@gmail.com)
+- 📫 How to reach me: email:- deepmah333@gmail.com
 <!-- - ⚡ Fun fact: I don't like  -->
 
 ![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepgits&show_icons=true&count_private=true&theme=merko)
