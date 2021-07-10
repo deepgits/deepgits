@@ -9,7 +9,18 @@ Glad to have you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - 📫 How to reach me: email [here](https://deepmah333@gmail.com)
 <!-- - ⚡ Fun fact: I don't like  -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepgits&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepgits&show_icons=true&count_private=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepgits&layout=compact)](https://github.com/deepgits/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepgits&layout=compact&langs_count=10)](https://github.com/deepgits/github-readme-stats)
+
+## Checkout my latest work
+<a href="https://github.com/deepgits/vscode-terminal-capture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepgits&repo=vscode-terminal-capture" />
+</a>
+<a href="https://github.com/deepgits/deepgits.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepgits&repo=deepgits.github.io" />
+</a>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepgits&repo=deepgits.github.io)](https://github.com/deepgits/deepgits.github.io) -->
+
 
